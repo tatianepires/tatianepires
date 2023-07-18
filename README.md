@@ -1,4 +1,4 @@
-# Hello there
+# Hello there!
 
 - I work with software development since 2007. :woman_technologist:
 - I was already creating web pages before starting college; so diving into PHP, HTML and CSS seemed a very logical choice. :vulcan_salute:
